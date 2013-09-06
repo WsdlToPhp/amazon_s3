@@ -1,7 +1,7 @@
 amazon_s3
 =========
 
-SDK to communicate with Amazon S3 SOAP Web service - Amazon S3 API
+SDK to communicate with Amazon S3 SOAP Web service - Amazon S3 SOAP API
 
 Official reference guide on http://docs.aws.amazon.com/AmazonS3/latest/API/IntroductionAPI.html
 
